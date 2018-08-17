@@ -6,8 +6,8 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Aug 2018 12:17:15 +0800</pubDate>
-    <lastBuildDate>Fri, 17 Aug 2018 12:17:15 +0800</lastBuildDate>
+    <pubDate>Fri, 17 Aug 2018 12:45:36 +0800</pubDate>
+    <lastBuildDate>Fri, 17 Aug 2018 12:45:36 +0800</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -35,6 +35,171 @@
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Fun</title>
+        <description>&lt;h1 id=&quot;表格的使用&quot;&gt;表格的使用&lt;/h1&gt;
+&lt;p&gt;a|b|c|9&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;18&lt;/td&gt;
+          &lt;td&gt;18&lt;/td&gt;
+          &lt;td&gt;18&lt;/td&gt;
+          &lt;td&gt;9&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;666&lt;/td&gt;
+          &lt;td&gt;789&lt;/td&gt;
+          &lt;td&gt;78&lt;/td&gt;
+          &lt;td&gt;2&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+          &lt;td&gt;9&lt;/td&gt;
+          &lt;td&gt;6&lt;/td&gt;
+          &lt;td&gt;号了&lt;/td&gt;
+          &lt;td&gt;8&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;姓名&lt;/th&gt;
+      &lt;th&gt;年龄&lt;/th&gt;
+      &lt;th&gt;性别&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;阿齐&lt;/td&gt;
+      &lt;td&gt;22&lt;/td&gt;
+      &lt;td&gt;男&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;阿虎&lt;/td&gt;
+      &lt;td&gt;26&lt;/td&gt;
+      &lt;td&gt;仙&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;选择框的使用&quot;&gt;选择框的使用&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;[ ] cdksfkdsk&lt;/li&gt;
+  &lt;li&gt;[x] cdksfkdsk&lt;/li&gt;
+  &lt;li&gt;[ ] cdksfkdsk&lt;/li&gt;
+  &lt;li&gt;[ ] cdksfkdsk&lt;/li&gt;
+  &lt;li&gt;[x] 你好&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;链接的使用&quot;&gt;链接的使用&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.baidu.com/&quot;&gt;百度&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;图片的使用&quot;&gt;图片的使用&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;3q.jpg&quot; alt=&quot;nihoa&quot; /&gt;
+&lt;img src=&quot;3q.jpg&quot; alt=&quot;shuai&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;要注意的俩个转义字符&quot;&gt;要注意的俩个转义字符&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&amp;lt;  为 &amp;amp;lt&lt;/li&gt;
+  &lt;li&gt;&amp;amp;  为 &amp;amp;amp&lt;/li&gt;
+  &lt;li&gt;&amp;amp;copy 为 ©
+ this
+ ====
+ is home
+——-&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is the first level of quoting.&lt;/p&gt;
+
+  &lt;blockquote&gt;
+    &lt;p&gt;This is nested blockquote.&lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;Back to the first level.
+This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
+consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&lt;/p&gt;
+
+  &lt;p&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
+id sem consectetuer libero luctus adipiscing.&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Red&lt;/li&gt;
+    &lt;li&gt;Blue
+      &lt;h1 id=&quot;有序列表&quot;&gt;有序列表&lt;/h1&gt;
+      &lt;ol&gt;
+        &lt;li&gt;66&lt;/li&gt;
+        &lt;li&gt;852&lt;/li&gt;
+        &lt;li&gt;789&lt;/li&gt;
+      &lt;/ol&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Bird&lt;/li&gt;
+&lt;li&gt;McHale&lt;/li&gt;
+&lt;li&gt;Parish&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Bird&lt;/li&gt;
+  &lt;li&gt;McHale&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Parish&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Bird&lt;/li&gt;
+  &lt;li&gt;McHale&lt;/li&gt;
+  &lt;li&gt;Parish&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bird&lt;/li&gt;
+  &lt;li&gt;Magic&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is a normal paragraph:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;This is a code block.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;div class=&quot;footer&quot;&gt;
+       &amp;copy; 2004 Foo Corporation
+   &lt;/div&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;This is &lt;a href=&quot;http://example.com/&quot; title=&quot;Title&quot;&gt;an example&lt;/a&gt; inline link.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://example.net/&quot;&gt;This link&lt;/a&gt; has no title attribute.&lt;/p&gt;
+
+&lt;h1 id=&quot;重点文字&quot;&gt;重点文字&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;single asterisks&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;single underscores&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Use the &lt;code class=&quot;highlighter-rouge&quot;&gt;printf()&lt;/code&gt; function.&lt;/p&gt;
+
+&lt;h1 id=&quot;使用转义&quot;&gt;使用*转义&lt;/h1&gt;
+&lt;p&gt;*this text is surrounded by literal asterisks*&lt;/p&gt;
+
+&lt;p&gt;A single backtick in a code span: &lt;code class=&quot;highlighter-rouge&quot;&gt;`&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;![Alt text][id]&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://example.com/&quot;&gt;http://example.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 17 Aug 2018 00:00:00 +0800</pubDate>
+        <link>http://yourdomain.com/2018/08/17/fun.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2018/08/17/fun.html</guid>
+        
         
       </item>
     
